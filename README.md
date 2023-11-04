@@ -1,0 +1,2 @@
+# QnA
+Technical task
